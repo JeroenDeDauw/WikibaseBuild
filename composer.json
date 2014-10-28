@@ -3,22 +3,5 @@
 		"mediawiki/wikibase-repository": "@dev",
 		"mediawiki/wikibase-client": "@dev"
 	},
-	"minimum-stability": "dev",
-	"require-dev": {
-		"phpunit/phpunit": "*"
-	},
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "/home/j/workspace/WikibaseLib"
-		},
-		{
-			"type": "vcs",
-			"url": "/home/j/workspace/WikibaseClient"
-		},
-		{
-			"type": "vcs",
-			"url": "/home/j/workspace/WikibaseRepository"
-		}
-	]
+	"minimum-stability": "dev"
 }
